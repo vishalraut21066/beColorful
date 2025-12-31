@@ -76,7 +76,7 @@ export default function Philosophy() {
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
               We believe that great brands are built on truth, not trends. Our
               approach combines strategic thinking with creative execution to
-              create brands that don't just look good, but actually work in the
+              create brands that don&apos;t just look good, but actually work in the
               real world.
             </p>
 
